@@ -10,4 +10,4 @@ I write about a mix of consulting, open source, personal work, and applying llms
 
 ## Get in touch
 
-Do you need help operationalizing ML or large language models? I’m open to new [consulting work](./services.md) and other forms of advisory. My clients include fast-growing startups backed by firms like Sequoia, Andreessen Horowitz, and Accel. If you need help with your project, send me a brief email at `work@jxnl.co`, or we can jump on a [call](https://cal.com/jasonliu/expert-call).
+Do you need help operationalizing ML or large language models? I’m open to new [consulting work](./services.md) and other forms of advisory. My clients include fast-growing startups backed by firms like Sequoia, Andreessen Horowitz, and Accel.
